@@ -2,7 +2,7 @@
 
 *A tiny golden-ratio weather orbit — Code In Place, Stanford*
 
-![cover](cover.png)
+![cover](Imágenes/Portada.png)
 
 ## The Idea
 
@@ -82,9 +82,9 @@ Prefer a plain-text version? `python weather.py` prints a comfort report for eve
 | `weather.py` | Command-line comfort report, no graphics needed |
 | `sprite_renderer.py` | Loads and draws the right Godzi PNG for the current mood |
 | `sound_system.py` | Procedural Fibonacci/pentatonic "growl" generator |
-| `Imágenes/` | The three Godzi mood sprites |
+| `Imágenes/` | The three Godzi mood sprites, plus `Portada.png` (the cover image above) |
 | `Sounds/` | Downloaded kaiju growl samples — kept for a possible future easter egg, not used by `main.py` |
-| `generate_cover.py` / `cover.png` | Generates this README's cover image using the same golden-ratio layout idea |
+| `generate_cover.py` / `cover.png` | An earlier auto-generated cover design, kept for reference (no longer used by the README) |
 
 ## Calibration Tools
 
