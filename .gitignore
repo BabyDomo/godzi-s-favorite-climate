@@ -1,0 +1,34 @@
+.aider*
+__pycache__/
+*.pyc
+desktop.ini
+.claude/
+.ruff_cache/
+
+# Local environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python tooling and packaging output
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Local secrets and machine files
+.env
+.env.*
+*.log
+.DS_Store
+Thumbs.db
+
+# Local project notes kept out of the public repo
+Como empezar_claude.txt
+Golden Angle.txt
+sugerencias_cerebro.md
+2026-05-18-golden-orbit-godzilla-design.md
